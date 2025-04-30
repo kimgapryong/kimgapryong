@@ -43,7 +43,6 @@
 ### 🎮 Game Development  
 <p>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-  <img src="https://img.shields.io/badge/AI%20Pathfinding-A*%2C%20DFS-orange?style=flat-square"/>
 </p>
 
 ### 🧱 Frameworks & Backend  
