@@ -19,8 +19,7 @@
 
 | 분류 | 프로젝트 설명 | 링크 |
 |------|----------------|------|
-| 🌐 전체 Portfolio: [portfolio](https://www.notion.so/1e5a66b30b8980b086f3c2e9348e059e?pvs=4)  
-|------|---------------|---------|
+| 🌐 전체 Portfolio |정리한 모든 포토폴리오 | [portfolio](https://www.notion.so/1e5a66b30b8980b086f3c2e9348e059e?pvs=4) |
 | 🎮 Game Client | Unity 기반 캐릭터 컨트롤, 전투 시스템 구현 | [🔗 보기](https://www.notion.so/1e4a66b30b8980849918f1f7083329e6?pvs=4) |
 | 🧠 Pathfinding Game | A\*, DFS 알고리즘 기반 미로 게임 | [🔗 보기](https://www.notion.so/TowerDefence3D-1e4a66b30b8980aca484f1c723904aea?pvs=4) |
 | 🖧 Game Server | TCP 기반 세션 관리, 커스텀 패킷 파서 | [🔗 보기](https://www.notion.so/1e3a66b30b8980bb96c5fdba753b5f49?pvs=4) |
