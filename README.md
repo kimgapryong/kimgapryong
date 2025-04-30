@@ -67,7 +67,6 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://img.icons8.com/ios/40/fork.png" alt="fork"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
 </p>
 
 ---
