@@ -32,31 +32,43 @@
 
 ## 🛠 Skills & Tools
 
-### 💻 Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+### 💻 Languages  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
 
-### 🎮 Game Development
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-<img src="https://img.shields.io/badge/AI%20Pathfinding-A*%2C%20DFS-orange?style=flat-square"/>
+### 🎮 Game Development  
+<p>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+  <img src="https://img.shields.io/badge/AI%20Pathfinding-A*%2C%20DFS-orange?style=flat-square"/>
+</p>
 
-### 🧱 Frameworks & Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+### 🧱 Frameworks & Backend  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+</p>
 
-### 🌐 Frontend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+### 🌐 Frontend  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</p>
 
-### 🗄️ Database
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+### 🗄️ Database  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
 
-### ⚙️ Tools & DevOps
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://img.icons8.com/ios/40/fork.png" alt="fork"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+### ⚙️ Tools & DevOps  
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://img.icons8.com/ios/40/fork.png" alt="fork"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+</p>
 
 ---
 
