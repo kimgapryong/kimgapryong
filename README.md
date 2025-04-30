@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kimgapryong&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.vercel.app?user=kimgapryong&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
