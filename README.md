@@ -23,7 +23,7 @@
 | 🧠 Pathfinding Game | A\*, DFS 알고리즘 기반 미로 게임 | [🔗 보기](https://www.notion.so/TowerDefence3D-1e4a66b30b8980aca484f1c723904aea?pvs=4) |
 | 🖧 Game Server | TCP 기반 세션 관리, 커스텀 패킷 파서 | [🔗 보기](https://www.notion.so/1e3a66b30b8980bb96c5fdba753b5f49?pvs=4) |
 | 🌐 Web Portfolio | 프론트/백엔드 프로젝트 모음 | [🔗 보기](https://www.notion.so/1e4a66b30b8980c5b6acf809edf3ca33?pvs=4) |
-| ☁️ RESTful Web Server | JWT 기반 인증 시스템 + API 서버 | [🔗 보기](https://www.notion.so/1e4a66b30b8980c5b6acf809edf3ca33?pvs=4) |
+| ☁️ RESTful Web Server | Jsp 기반 시스템 + 웹 서버 | [🔗 보기](https://www.notion.so/1e4a66b30b8980c5b6acf809edf3ca33?pvs=4) |
 | 🎮 Game Design Doc 1 | 학교 공포탈 기획 문서 | [🔗 보기](https://www.notion.so/b1eddaf36fce4f64956867206e3af314?pvs=4) |
 | 🧩 Game Design Doc 2 | 각각의 연애 시뮬레이 게임 기획 | [🔗 보기](https://www.notion.so/2024-141f55dab7f04eac8c860bbfa5a6ef01?pvs=4) |
 | 🎯 Game Design Doc 3 | 타워 디펜스 게임 기 | [🔗 보기](https://www.notion.so/1dda66b30b8980c7b940fcff88bc57a7?pvs=4) |
