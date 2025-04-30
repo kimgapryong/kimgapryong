@@ -48,7 +48,6 @@
 
 ### 🧱 Frameworks & Backend  
 <p>
-  <img src="https://www.vectorlogo.zone/logos/javaee/javaee-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
 </p>
