@@ -26,7 +26,7 @@
 | ☁️ RESTful Web Server | Jsp 기반 시스템 + 웹 서버 | [🔗 보기](https://www.notion.so/1e4a66b30b8980c5b6acf809edf3ca33?pvs=4) |
 | 🎮 Game Design Doc 1 | 학교 공포탈 기획 문서 | [🔗 보기](https://www.notion.so/b1eddaf36fce4f64956867206e3af314?pvs=4) |
 | 🧩 Game Design Doc 2 | 각각의 연애 시뮬레이 게임 기획 | [🔗 보기](https://www.notion.so/2024-141f55dab7f04eac8c860bbfa5a6ef01?pvs=4) |
-| 🎯 Game Design Doc 3 | 타워 디펜스 게임 기 | [🔗 보기](https://www.notion.so/1dda66b30b8980c7b940fcff88bc57a7?pvs=4) |
+| 🎯 Game Design Doc 3 | 타워 디펜스 게임 기획 | [🔗 보기](https://www.notion.so/1dda66b30b8980c7b940fcff88bc57a7?pvs=4) |
 
 ---
 
